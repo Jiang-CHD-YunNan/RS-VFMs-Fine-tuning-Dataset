@@ -20,6 +20,7 @@ This dataset is specifically designed for fine-tuning the VFMs. The dataset cont
 
 If you use this dataset in any academic work or research, please cite the following paper:
 - Jiang W, Sun Y, Lei L, et al. *AdaptVFMs-RSCD: Advancing Remote Sensing Change Detection from binary to semantic with SAM and CLIP* [J]. ISPRS Journal of Photogrammetry and Remote Sensing, 2025, 230: 304-17.
+- Jiang W, Sun Y, Lei L, et al. Change Detection of Multisource Remote Sensing Images: A Review [J]. International Journal of Digital Earth, 2024, 17(1): 2398051.
 
 ## Example Images
 Below are some example images from the dataset:
